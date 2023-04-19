@@ -262,8 +262,8 @@ tags will be replaced.-->
  </tr>
  <tr height=20 style='mso-height-source:userset;height:15.75pt'>
   <td height=20 class=xl65 style='height:15.75pt'>12:00–12:15</td>
-  <td class=xl66 width=251 style='width:188pt'><a href="assets/pdfs/IceNet_demonstrating_data_driven_climate_science_for_real_world_applications_abstract.pdf">IceNet - demonstrating
-  data-driven climate science for real-world applications</a> (<a href="assets/pdfs/IceNet_demonstrating_data_driven_climate_science_for_real_world_applications.pdf">slides</a>)</td>
+  <td class=xl66 width=251 style='width:188pt'><a href="assets/pdfs/Poster_CI2023.pdf">Stochastic weather generator and deep learning approach for predicting and sampling extreme European heatwaves
+</a> (<a href="assets/pdfs/Poster_CI2023.pdf">slides</a>)</td>
   <td class=xl66 width=251 style='width:188pt'>James Byrne (British Antarctic
   Survey)*</td>
   <td class=xl67 width=701 style='width:40vw;'>British Antarctic Survey,
@@ -1486,9 +1486,8 @@ tags will be replaced.-->
  </tr>
  <tr height=20 style='mso-height-source:userset;height:15.75pt'>
   <td height=20 class=xl65 style='height:15.75pt'>15:45–16:00</td>
-  <td class=xl66 width=251 style='width:188pt'><a href="assets/pdfs/Reducing_the_overhead_of_coupled_ML_models.pdf">Reducing the overhead of coupled
-  ML models between Python and Fortran: an application to Gravity Wave
-  Parameterizations</a>
+  <td class=xl66 width=251 style='width:188pt'><a href="assets/pdfs/Climate_Informatics_Abstract.pdf">Stochastic weather generator and deep learning approach for predicting and sampling extreme European heatwaves
+</a>
 )</td>
   <td class=xl66 width=251 style='width:188pt'>Jack Atkinson (University of
   Cambridge); <b>Simon Clifford (University of Cambridge)</b>; David Connelly (New
